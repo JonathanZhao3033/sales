@@ -10,4 +10,5 @@ std::cout << book << std::endl;
 std::cout << book.isbn() << std::endl;
 system("pause");
     return 0;
+    //fja;aofaef
 }
